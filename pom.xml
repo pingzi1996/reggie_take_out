@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
     </properties>
     <dependencies>
-        <!--阿里云的ss短信服务-->
+        <!--阿里云的短信服务 改一下这里测试下git-->
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-core</artifactId>
